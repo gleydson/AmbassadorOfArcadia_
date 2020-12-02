@@ -34,13 +34,13 @@
   "dependencies": {
     "prop-types": "^15.6.2",
     "react": "^16.5.0",
-    "react-native": "0.57.7",
+    "react-native": "0.59.0",
     "react-native-camera": "^1.4.3",
     "react-native-draggable": "^1.0.14",
     "react-native-elements": "^1.0.0",
     "react-native-router-flux": "^4.0.1",
     "react-native-toast-native": "^1.2.1",
-    "react-native-vector-icons": "^6.1.0",
+    "react-native-vector-icons": "^6.4.1",
     "react-native-walkthrough-tooltip": "^0.4.0",
     "react-redux": "^5.1.1",
     "redux": "^4.0.0"
